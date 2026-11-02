@@ -15,7 +15,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable}`}>
-      <body><InteractionSounds /><SiteHeader /><main className="page-enter flex-1">{children}</main></body>
+      <body><InteractionSounds /><SiteHeader /><main className="page-enter flex-1">{children}</main><footer className="py-6 text-center text-xs text-zinc-500">&copy; Pavan Nemani &middot; All Rights Reserved (ARR)</footer></body>
     </html>
   );
 }

@@ -2,6 +2,7 @@
   "name": "vibe-polish",
   "version": "0.1.12",
   "private": true,
+  "license": "UNLICENSED",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

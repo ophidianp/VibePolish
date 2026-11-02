@@ -34,3 +34,8 @@ npm test
 ## Notes
 
 The app supports local browser inference through Transformers.js and optional Ollama/Gemini/OpenAI backends depending on your environment.
+
+## License
+
+All Rights Reserved (ARR). Copyright (c) 2026 Pavan Nemani.
+This project is not open source; see [LICENSE](LICENSE) for what you may and may not do.
